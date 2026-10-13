@@ -1,0 +1,18 @@
+user_id,timestamp,input_text,response_text,rating,reward
+test,2025-06-12 00:54:10,I am too sleepy right now but cannot go to sleep because my project is still yet to be completed.,"Ugh, that's the worst feeling! You're stuck between needing sleep and needing to get stuff done. It's like your brain and body are fighting.
+
+Hey, how about setting a super small, achievable goal for the project, like just outlining the next section or writing one paragraph? Then, promise yourself you'll shut it down and get some rest. Sometimes just making a tiny bit of progress can ease the stress enough to let you sleep. What do you think?",positive,1
+test,2025-06-12 00:58:20,I am too sleepy right now but cannot go to sleep because my project is still yet to be completed.,"Ugh, that's the worst feeling! You're stuck between needing sleep and needing to get stuff done. It's like your brain and body are fighting.
+
+Hey, how about setting a super small, achievable goal for the project, like just outlining the next section or writing one paragraph? Then, promise yourself you'll shut it down and get some rest. Sometimes just making a tiny bit of progress can ease the stress enough to let you sleep. What do you think?",positive,1
+test,2025-06-12 00:58:40,I am yet to finish my blackbook also,"Okay, so the blackbook is still hanging over your head too, huh? That feeling of being behind on everything is so draining.
+
+Maybe instead of tackling it head-on, you could try breaking it down into tiny, almost ridiculously small steps? Like, could you just gather all the materials you need for it in one place? Or write a single sentence about what it's about? Sometimes starting small can make the whole thing feel less impossible. What do you reckon?",negative,0
+test,2025-06-12 01:40:16,heeellllooooooo !!!!!!,Hey hey! What's goin on? 😊,positive,1
+test,2025-06-12 01:40:43,I am feeling like I am on top of the world.,That's awesome to hear! What's making you feel so great? 😄,positive,1
+test,2025-06-12 01:42:03,"I have a date with a girl tomorrow, she's the one who forgot to tell me that we won't be able to meet on our decided date.","Oof, that's a bummer, honestly. It's super annoying when plans get messed up, especially when it's a date you're looking forward to. Wanna vent about it? I'm here to listen.",negative,0
+test,2025-06-12 01:42:42,no she forgot to tell me in the past but I have a date with her tomorrow,"Okay, so she forgot to tell you about the change in plans, but the date's still on for tomorrow? That's... something, haha. How are you feeling about it all now that tomorrow's almost here?",positive,1
+om,2026-02-22 15:09:41,i am feeling low ,"As a General Mental Health expert, I understand that Anxious feelings can be overwhelming. Practice mindfulness exercises. Let’s talk more about it.",positive,1
+om,2026-02-22 15:10:57,headache,"As a PTSD expert, I understand that Stressed feelings can be overwhelming. Talk to a trusted friend or therapist. Let’s talk more about it.",negative,0
+yashbadakk,2026-10-13 23:38:55,can you give me suggestion ,"As a General Mental Health expert, I understand that Neutral feelings can be overwhelming. Call a helpline or emergency support. Let’s talk more about it.",positive,1
+yashbadakk,2026-10-13 23:39:01,can you give me suggestion ,"As a General Mental Health expert, I understand that Neutral feelings can be overwhelming. Call a helpline or emergency support. Let’s talk more about it.",positive,1

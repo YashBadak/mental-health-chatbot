@@ -1,0 +1,17 @@
+psycopg2-binary
+transformers
+sentence-transformers
+faiss-cpu
+streamlit
+pandas
+numpy
+google-genai
+joblib
+python-dotenv
+nltk
+rouge-score
+bcrypt
+streamlit-lottie
+requests
+scipy
+groq

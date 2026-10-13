@@ -1,0 +1,15 @@
+
+# Python environments
+myenv/
+.venv/
+
+# Large files
+data/mental_health_embeddings.csv
+models/reward_model_finetuned/model.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env

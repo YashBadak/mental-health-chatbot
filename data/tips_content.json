@@ -1,0 +1,47 @@
+{
+  "affirmations": [
+    "I am resilient and can handle whatever comes my way.",
+    "I choose to focus on the positive and let go of the negative.",
+    "My potential to succeed is infinite.",
+    "I am calm, I am loved, and I am safe.",
+    "I am worthy of peace and happiness."
+  ],
+  "videos": [
+    {
+      "title": "5-Minute Guided Meditation for Anxiety",
+      "url": "https://www.youtube.com/watch?v=O-6f5wQXSu8"
+    },
+    {
+      "title": "10-Minute Mindfulness Meditation",
+      "url": "https://www.youtube.com/watch?v=ZToicYcHIOU"
+    },
+    {
+      "title": "A Short Animated Video on Understanding Anxiety",
+      "url": "https://www.youtube.com/watch?v=tEWiSCo2-GU"
+    }
+  ],
+  "techniques": [
+    {
+      "title": "The 5-4-3-2-1 Grounding Technique",
+      "content": "This is a simple technique to help you ground yourself when you feel overwhelmed or anxious. It brings your focus to the present moment. Just notice:\n- **5️⃣ Things You Can See:** Look around you and name five things you see.\n- **4️⃣ Things You Can Feel:** Notice four things you can feel with your body.\n- **3️⃣ Things You Can Hear:** Listen carefully and identify three sounds.\n- **2️⃣ Things You Can Smell:** Notice two distinct smells.\n- **1️⃣ Thing You Can Taste:** Bring your awareness to one thing you can taste."
+    },
+    {
+      "title": "The Importance of Journaling",
+      "content": "Writing down your thoughts and feelings can be incredibly therapeutic. It doesn't have to be structured or perfect. Journaling can help you:\n- **Clarify your thoughts:** Untangle the worries in your mind by putting them on paper.\n- **Recognize triggers:** By tracking your feelings, you can identify situations or thoughts that cause you stress.\n- **Practice gratitude:** Regularly writing down what you're thankful for can shift your perspective towards positivity."
+    }
+  ],
+  "links": [
+    {
+      "title": "World Health Organization (WHO) - Mental Health",
+      "url": "https://www.who.int/health-topics/mental-health"
+    },
+    {
+      "title": "National Institute of Mental Health (NIMH) - USA",
+      "url": "https://www.nimh.nih.gov/"
+    },
+    {
+      "title": "The Live Love Laugh Foundation - India",
+      "url": "https://www.thelivelovelaughfoundation.org/find-help/helplines"
+    }
+  ]
+}
